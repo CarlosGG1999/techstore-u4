@@ -1,5 +1,7 @@
 # TechStore - Domain-Driven Design (U4 FIME UANL)
 # Carlos Hugo Garcia Gomez 226690
+# Hernandez Garza Saul ALejandro 2226664
+# Alan Bertín Castillo Martínez 2226653
 
 Proyecto desarrollado para la actividad práctica de la Unidad 4 (Componentes de Lógica de Negocio), aplicando arquitectura orientada a dominio (DDD), FastAPI y pruebas automatizadas en Python.
 
